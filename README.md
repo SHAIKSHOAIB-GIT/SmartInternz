@@ -1,5 +1,4 @@
 # SmartInternz
-Streamlinling Ticket
 
 # 🎯 Automated Ticket Routing System – ABC Corporation
 
