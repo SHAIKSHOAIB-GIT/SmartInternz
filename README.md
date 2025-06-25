@@ -22,7 +22,7 @@ This project focuses on implementing an **automated ticket routing system** usin
 
 Click below to watch the full demo of the automated ticket routing system:
 
-👉 [Watch Demo Video](https://drive.google.com/file/d/1OPtoKZgKMSPp2ch46JaTkuAjuLV5X16S/view?usp=drive_link)
+👉 [Watch Video](https://drive.google.com/file/d/1OPtoKZgKMSPp2ch46JaTkuAjuLV5X16S/view?usp=drive_link)
 
 
 
