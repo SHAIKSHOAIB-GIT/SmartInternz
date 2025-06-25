@@ -23,7 +23,7 @@ This project focuses on implementing an **automated ticket routing system** usin
 project
 │
 ├── Users                        
-│   ├── ![users](./Captures/smartinternz.mp4 - VLC media player 25-06-2025 10_57_08.png
+![users](./Captures/smartinternz.mp4 - VLC media player 25-06-2025 10_57_08.png)
 │   └── 
 │
 
