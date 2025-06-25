@@ -19,10 +19,4 @@ This project focuses on implementing an **automated ticket routing system** usin
 
 ---
 
-## 📂 Project 
-project
-│
-├── Users  
-
-![Alt text](Captures/smartinternz.mp4 - VLC media player 25-06-2025 10_57_08.png)
 
