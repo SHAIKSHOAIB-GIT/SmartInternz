@@ -19,6 +19,12 @@ This project focuses on implementing an **automated ticket routing system** usin
 
 ---
 
-## 📂 Project Structure
+## 📂 Project 
+project
+│
+├── Users                        
+│   ├── 
+│   └── 
+│
 
 
