@@ -1,6 +1,6 @@
 # SmartInternz
 
-# 🎯 Automated Ticket Routing System – ABC Corporation
+# 🎯 Automated Ticket Routing System
 
 ## 📘 Project Description
 
