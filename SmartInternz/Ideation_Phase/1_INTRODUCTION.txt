@@ -1,0 +1,2 @@
+Introduction:
+This project aims to develop an Automated Ticket Routing System using ServiceNow to streamline ticket management.

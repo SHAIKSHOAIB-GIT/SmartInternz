@@ -1,0 +1,2 @@
+Solution Architecture:
+System architecture diagram depicting integrations and workflows.

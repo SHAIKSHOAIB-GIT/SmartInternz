@@ -1,0 +1,5 @@
+Advantages:
+- Faster ticket resolution
+- Reduced workload
+Disadvantages:
+- Initial setup cost

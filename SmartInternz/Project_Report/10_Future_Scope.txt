@@ -1,0 +1,2 @@
+Future Scope:
+Integration with AI chatbots, predictive analytics, and multi-channel support.

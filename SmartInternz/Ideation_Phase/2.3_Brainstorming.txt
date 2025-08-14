@@ -1,0 +1,2 @@
+Brainstorming:
+Multiple routing algorithms and categorization strategies were evaluated.

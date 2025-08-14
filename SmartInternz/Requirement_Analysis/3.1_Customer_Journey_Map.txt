@@ -1,0 +1,2 @@
+Customer Journey Map:
+Visual representation of the user’s interaction from ticket creation to resolution.
