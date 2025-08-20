@@ -1,10 +1,10 @@
 # SmartInternz
 
-# 🎯 Automated Ticket Routing System
+# 🎯 Educational Oragansition using Service Now
 
 ## 📘 Project Description
 
-This project focuses on implementing an **automated ticket routing system** using **ServiceNow** at **ABC Corporation** to improve operational efficiency in IT support operations. By automating the assignment of tickets based on issue type, we ensure timely resolution, reduce manual workload, and increase customer satisfaction.
+This project focuses on implementing an ** Educational Oragansition using Service Now** at **ABC Corporation** to improve operational efficiency in IT support operations. By automating the assignment of tickets based on issue type, we ensure timely resolution, reduce manual workload, and increase customer satisfaction.
 
 ---
 
